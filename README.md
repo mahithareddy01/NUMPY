@@ -2,7 +2,7 @@
 
 Welcome to my **AIML–DS learning journey**! 🚀
 
-This repository contains my ** NumPy notebook** , where I explored:
+This repository contains my **NumPy notebook** , where I explored:
 
 - Creating and manipulating **1D, 2D, and 3D arrays**
 - Performing **element-wise operations**
